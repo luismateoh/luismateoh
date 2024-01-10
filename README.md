@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luismateoh&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismateoh)](https://github.com/luismateoh/github-readme-stats)
