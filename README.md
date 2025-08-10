@@ -13,11 +13,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luismateoh" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luismateoh&layout=compact&langs_count=8&card_width=320" />
-</a>
+# Luis Mateo Hincapié Martínez
+/loo·ees ma·te·o/
+
+I'm a Java Developer passionate about backend architecture, clean code, and building efficient, scalable software.  
+I enjoy exploring new frameworks, improving performance, and learning how complex systems work.
+
+🏠 [luis-mateo.dev](https://your-website.com)  
+📫 [luis.mateo@example.com](mailto:luis.mateo@example.com)  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🐦 [@yourhandle](https://twitter.com/yourhandle)  
+
+---
+
+## 👷 Check out what I'm currently working on
+- [luismateoh/event-manager](https://github.com/luismateoh/event-manager) – Event scheduling and tracking app in Spring Boot.
+- [luismateoh/java-utils](https://github.com/luismateoh/java-utils) – Collection of useful Java helper libraries.
+- [luismateoh/dockerized-api](https://github.com/luismateoh/dockerized-api) – Java API fully containerized with Docker & Docker Compose.
+
+---
+
+## 🌱 My latest projects
+- [luismateoh/microservices-demo](https://github.com/luismateoh/microservices-demo) – Microservices with Spring Cloud.
+- [luismateoh/spring-security-jwt](https://github.com/luismateoh/spring-security-jwt) – JWT authentication with Spring Security.
+- [luismateoh/react-dashboard](https://github.com/luismateoh/react-dashboard) – Frontend dashboard consuming a Java backend API.
+
+---
+
+## 🔨 My recent Pull Requests
+- fix: NPE on user service init – [luismateoh/event-manager](https://github.com/luismateoh/event-manager/pull/12)
+- refactor: use records instead of DTO classes – [luismateoh/java-utils](https://github.com/luismateoh/java-utils/pull/5)
+- feat: add caching layer with Redis – [luismateoh/microservices-demo](https://github.com/luismateoh/microservices-demo/pull/8)
+
+---
+
+## 🔭 Latest releases I've contributed to
+- [luismateoh/java-utils v1.2.0](https://github.com/luismateoh/java-utils/releases/tag/v1.2.0)
+- [luismateoh/event-manager v0.9.0](https://github.com/luismateoh/event-manager/releases/tag/v0.9.0)
+
+
+-->
