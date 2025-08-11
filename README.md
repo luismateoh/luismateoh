@@ -54,3 +54,52 @@ I enjoy exploring new frameworks, improving performance, and learning how comple
 
 
 -->
+
+## 🌱 My latest projects
+
+- **[Aldebaran](https://github.com/luismateoh/Aldebaran)**  
+  Modern platform built with Next.js 14 and Firebase to promote athletic events in Colombia. Includes admin panel, comments, light/dark mode, PWA, and more.
+
+- **[Colombia Travel Level Map](https://github.com/luismateoh/colombia-travel-level-map)**  
+  Interactive map of Colombia (built with Svelte) to mark departments based on your travel experience: planned, visited, or lived.
+
+- **[OrienteSalud Webpage](https://orientesalud.com)**  
+  Official website for OrienteSalud, a healthcare service provider in eastern Antioquia. Features appointment scheduling, service catalog, and contact integrations.
+
+- **[Altair URL Shortener](https://github.com/luismateoh/Altair-url-shortener)**  
+  Service for shortening long URLs, generating unique aliases and QR codes for short links.
+
+- **[Meeting Room Booking](https://github.com/luismateoh/Meeting-Room-Booking-1)**  
+  RESTful API built with Spring Boot for meeting room reservations, using JPA for persistence.
+
+- **[Art App](https://github.com/luismateoh/Art-App)**  
+  Flutter-based art application developed during a coding dojo.
+
+- **[Antares](https://github.com/luismateoh/Antares)**  
+  Example of a machine learning model deployed in a production-ready environment.
+
+- **[Sirio Syntax Analyzer](https://github.com/luismateoh/Sirio-Analizador-Sintactico)**  
+  Syntax analyzer implemented in Dart as part of a language theory project.
+
+- **[Web Scraper Ragged](https://github.com/luismateoh/Web-Scraper-Ragged)**  
+  Educational web scraper extracting products from ragged.com.co.
+
+- **[Blood Cell Classification](https://github.com/luismateoh/blood-cell-classification)**  
+  Machine learning project for classifying blood cell images.
+
+- **[Pendulum Analysis](https://github.com/luismateoh/pendulum-analysis)**  
+  Physics experiment analysis using OpenCV to track pendulum movement.
+
+---
+
+## 🔭 Latest releases I've contributed to
+
+- **[tradukisto – allegro](https://github.com/allegro/tradukisto)**  
+  Java library for internationalization that converts numbers into their word representation.
+
+- **[programming-principles – webpro](https://github.com/webpro/programming-principles)**  
+  Curated list of categorized programming principles and design guidelines.
+
+- **[java-design-patterns – iluwatar](https://github.com/iluwatar/java-design-patterns)**  
+  Popular collection of design patterns implemented in Java.
+
