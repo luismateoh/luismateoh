@@ -63,7 +63,7 @@ I enjoy exploring new frameworks, improving performance, and learning how comple
 - **[Colombia Travel Level Map](https://github.com/luismateoh/colombia-travel-level-map)**  
   Interactive map of Colombia (built with Svelte) to mark departments based on your travel experience: planned, visited, or lived.
 
-- **[OrienteSalud Webpage](https://orientesalud.com)**  
+- **[OrienteSalud Webpage](https://orientesalud.co)**  
   Official website for OrienteSalud, a healthcare service provider in eastern Antioquia. Features appointment scheduling, service catalog, and contact integrations.
 
 - **[Altair URL Shortener](https://github.com/luismateoh/Altair-url-shortener)**  
